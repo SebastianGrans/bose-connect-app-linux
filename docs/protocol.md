@@ -393,8 +393,9 @@ the next request (on a QC Ultra the following read was answered with
 the request without it, verified on a QC Ultra ("automatic voice" in
 the app), a QC35 II and a QC45.
 
-QC45 (4.0.4), low before; the app showed high afterwards (self-voice
-only acts during calls, so it was not checked by ear):
+QC45 (4.0.4), low before; the app showed high afterwards. Self-voice
+only acts during calls: in a phone call, off, low, medium and high set
+from a laptop were heard as such.
 
 ```text
 > 01 0b 02 02 01 01
